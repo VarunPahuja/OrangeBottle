@@ -1,4 +1,4 @@
 # Orange Bottle 
 ### by Varun Pahuja, Yug Parekh
-## ETT LAB PROJECT
+## Emerging Tools And Technology LAB PROJECT
 ### Sentiment Analysis Dashboard
